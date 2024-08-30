@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793444008750",
+    "project_id": "alir-b25bb",
+    "storage_bucket": "alir-b25bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793444008750:android:b48a5d0b55a6552998f0bf",
+        "android_client_info": {
+          "package_name": "com.example.alir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793444008750-f37tm9rtoqh91nbc69nsttoloo0sbcd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alir",
+            "certificate_hash": "0c93df972abf3c823c04cefc812193ef4e71ee8b"
+          }
+        },
+        {
+          "client_id": "793444008750-9asadjqeil99vb3orvoveddderodmmlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-9rsIxNXgpkwNi1dj-3K8vrKbqpi_H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793444008750-9asadjqeil99vb3orvoveddderodmmlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alir</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYXVkeWZoIiwiYSI6ImNtMGNlYTl0YzAxYXoybHF2ZjQ1ZGxtZjMifQ.LVBEHCGdY2er9-SLDSD5Pg</string>
+    <string name="default_web_client_id">793444008750-9asadjqeil99vb3orvoveddderodmmlv.apps.googleusercontent.com</string>
+</resources>
